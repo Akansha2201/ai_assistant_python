@@ -40,4 +40,4 @@ python main.py
 Contributions are welcome! If you have any ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
 
 # License
-This project is licensed under the Apache 2 License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
